@@ -7,6 +7,20 @@
 
 ---
 
+### 🎯 Goals
+
+- 👨‍💻 I’m aiming to work professionally as a **software developer**, contributing to meaningful and challenging projects.
+- 🌱 Building a strong foundation in both frontend and backend development.
+
+---
+
+### 📚 Currently Learning
+
+- 🔧 **C++** – Strengthening my object-oriented programming and problem-solving skills.
+- ⚛️ **React** – Learning to build interactive UIs and single-page applications.
+
+---
+
 ### 📫 Connect with me:
 
 [![LinkedIn: Lázaro](https://img.shields.io/badge/-Lázaro-007BFF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lázarogabriel11/)
