@@ -49,6 +49,6 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarobo&layout=donut&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasEllen26&layout=compact&theme=default" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=lazarobo&show_icons=true&theme=default&rank_icon=github" alt="GitHub Stats" />
 </p>
