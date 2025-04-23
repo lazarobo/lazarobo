@@ -55,6 +55,6 @@
 ### 📊 GitHub Stats:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarobo&layout=donut-vertical&theme=default" alt="Top Languages" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarobo&layout=compact)
   <img src="https://github-readme-stats.vercel.app/api?username=lazarobo&show_icons=true&theme=default&rank_icon=github" alt="GitHub Stats" />
 </div>
