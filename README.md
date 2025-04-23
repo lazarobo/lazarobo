@@ -9,7 +9,7 @@
 
 ### 📫 Connect with me:
 
-[![Linkedin: Lazaro](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](www.linkedin.com/in/lázarogabriel11)
+[![Linkedin: Lazaro](https://img.shields.io/badge/-Lazaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](www.linkedin.com/in/lázarogabriel11)
 [![Gmail Badge](https://img.shields.io/badge/-lazaro.11.gabriel@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:lazaro.11.gabriel@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Lazaro-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})](instagram.com/lg.big)
 ---
