@@ -9,9 +9,10 @@
 
 ### 📫 Connect with me:
 
-[![Linkedin: Lazaro](https://img.shields.io/badge/-Lazaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](www.linkedin.com/in/lázarogabriel11)
-[![Gmail Badge](https://img.shields.io/badge/-lazaro.11.gabriel@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:lazaro.11.gabriel@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Lazaro-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})](instagram.com/lg.big)
+[![LinkedIn: Lázaro](https://img.shields.io/badge/-Lázaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lázarogabriel11/)](https://www.linkedin.com/in/lázarogabriel11/)
+[![Gmail Badge](https://img.shields.io/badge/-lazaro.11.gabriel@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:lazaro.11.gabriel@gmail.com)
+[![Instagram](https://img.shields.io/badge/-@lg.big-purple?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lg.big)
+
 ---
 
 ### 🛠️ Languages and Tools:
@@ -38,23 +39,16 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-
 ### 📊 GitHub Stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarobo&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarobo&layout=donut&theme=default" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=lazarobo&show_icons=true&theme=default&rank_icon=github" alt="GitHub Stats" />
-</div>
+</p>
