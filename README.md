@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lázaro Santos</h1>
 <h3 align="center">Studying Bachelor's Degree in IT</h3>
-<h3 align="center">On UFRN</h3>
+<h3 align="center">Mid-level IT Technician, IFRN</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazarobo&label=%20views&color=0e75b6&style=flat" alt="lazarobo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazarobo&label=%20Views&color=lightgray&style=flat" alt="lazarobo" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
