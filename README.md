@@ -9,18 +9,9 @@
 
 ### 📫 Connect with me:
 
-<p align="left">
-  <a href="https://twitter.com/el_lazoo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/lázaro gabriel" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/lg.big" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
+[![Linkedin: Lazaro](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](www.linkedin.com/in/lázarogabriel11)
+[![Gmail Badge](https://img.shields.io/badge/-lazaro.11.gabriel@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:lazaro.11.gabriel@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Lazaro-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})](instagram.com/lg.big)
 ---
 
 ### 🛠️ Languages and Tools:
@@ -60,9 +51,10 @@
 
 ---
 
+
 ### 📊 GitHub Stats:
 
-<p align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarobo&layout=donut-vertical&theme=default" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=lazarobo&show_icons=true&theme=default&rank_icon=github" alt="GitHub Stats" />
-</p>
+</div>
