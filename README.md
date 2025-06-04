@@ -13,8 +13,6 @@
   </a>
 </p>
 
----
-
 ### 🚀 Sobre
 
 Corinthiano entrando na área de desenvolvimento de software, apaixonado por basquete, animes e Python. Tenho um cachorro muito louco com o nome Coragem.
