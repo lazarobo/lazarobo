@@ -15,8 +15,9 @@
 
 ### 🧠 Atualmente estudando
 
-- 🔧 **ADVPL** – ExecAuto
-- ⚛️ **Rest** – API
+- 🔧 **ADVPL** – TLPP 
+- ⚛️ **RestFul** – API
+- 🔧 **FMC** - Modular Congruence
 
 ---
 
@@ -35,6 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+<img src="https://github.com/user-attachments/assets/fa159db9-b04f-432e-bc6a-b3e9841ea417" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
 
 ---
