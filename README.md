@@ -14,11 +14,12 @@
   </a>
 </p>
 
-### 🧠 Atualmente estudando <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
+### 🧠 Atualmente estudando 
 
-- **ADVPL – TLPP**
+- **ADVPL – TLPP** <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right" style="margin-right: 100px;">
 - **RestFul – API**  
 - **FMC - Modular Congruence** 
+
 
 
 ### 🛠️ Tecnologias
@@ -37,6 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
 <img src="https://github.com/user-attachments/assets/fa159db9-b04f-432e-bc6a-b3e9841ea417" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
+
 
 
 ### 📊 GitHub Stats
