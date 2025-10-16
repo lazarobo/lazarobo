@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Lázaro Santos</h1>
-<p align="center">🎓 Estudante de TI | 🛠️ Técnico em Informática (IFRN) | 💻 Focado em desenvolvimento de software</p>
+<p align="center">🎓 Estudante de TI (UFRN) | 🛠️ Desenvolvedor ADVPL da UserFunction | 💻 Focado em desenvolvimento de software</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lázarogabriel11/" target="_blank">
