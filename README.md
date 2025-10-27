@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Lázaro Santos</h1>
+<h1 align="center">👋 Eae, eu sou Lázaro Gabriel</h1>
 <p align="center">🎓 Estudante de TI (UFRN) | 🛠️ Desenvolvedor ADVPL da UserFunction | 💻 Focado em desenvolvimento de software</p>
 
 <p align="center">
