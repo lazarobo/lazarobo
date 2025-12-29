@@ -17,7 +17,7 @@
 
 - 🔧 **ADVPL** – TLPP 
 - ⚛️ **RestFul** – API
-- 🔧 **FMC** - Modular Congruence
+- 🔧 **Angular** - JS 
 
 ---
 
