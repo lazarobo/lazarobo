@@ -15,8 +15,8 @@
 
 ### 🧠 Atualmente estudando
 
-- 🔧 **ADVPL** – TLPP 
-- ⚛️ **RestFul** – API
+- 🔧 **JAVA** – POO
+- ⚛️ **N8N** – AI AUTO
 - 🔧 **Angular** - JS 
 
 ---
